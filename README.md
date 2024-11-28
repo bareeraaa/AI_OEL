@@ -23,14 +23,9 @@ shapely
 geopandas
 You can install them with:
 
-bash
-Copy code
 pip install numpy matplotlib shapely geopandas
-Data File Requirement
 Download the shapefile for world boundaries and update the shapefile_path in the code:
 
-python
-Copy code
 shapefile_path = "E:/ne_10m_admin_0_countries.shp"
 You can download the shapefile here.
 
